@@ -32,22 +32,28 @@
 }
 
 .masthead__menu {
+  @include suffix(0.75 of 12);
+  //display: flex;
+  
 
   ul {
     margin: 0;
     padding: 0;
     clear: both;
     list-style-type: none;
+    display: inline-block;
   }
 }
 
 .masthead__menu-item {
-  display: block;
+  display: inline-block;
   list-style-type: none;
   white-space: nowrap;
 
   &--lg {
-    padding-right: 2em;
+    //padding-right: 10vw;
     font-weight: 700;
+    //text-align: left;
+    //margin-left: auto;
   }
 }
