@@ -34,7 +34,7 @@ My research focuses on data-driven modeling and control of stochastic dynamical 
 
 # Published Papers
 
-1. **Trends in short-term renewable and load forecasting for applicaitons in smart grid** [[DOI]](https://link.springer.com/chapter/10.1007/978-3-319-33681-7_24)\
+1. **Trends in short-term renewable and load forecasting for applications in smart grid** [[DOI]](https://link.springer.com/chapter/10.1007/978-3-319-33681-7_24)\
    with Deepa Kundur and Dongchan Lee\
    <span style="color:brown">_Smart City 360_</span>, 2016
 
