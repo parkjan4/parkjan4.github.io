@@ -20,7 +20,7 @@ My research focuses on data-driven modeling and control of stochastic dynamical 
 
 # Working Papers {#research}
 
-1. **Dynamic Transfer Policies in Parallel Queues**\
+1. **Dynamic Transfer Policies for Parallel Queues**\
    with Timothy Chan and Vahid Sarhangian\
    In preparation for submission, 2023.
 
