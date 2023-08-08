@@ -49,7 +49,7 @@ My research focuses on data-driven modeling and control of stochastic dynamical 
 # Presentations {#conferences}
 
 - <span style="color:#CD7F32">**INFORMS Annual Meeting:**</span> 2022, 2023 (scheduled)
-- <span style="color:#CD7F32">**INFORMS Healthcare Conference:**</span> 2023 (scheduled)
+- <span style="color:#CD7F32">**INFORMS Healthcare Conference:**</span> 2023
 
 <hr style="border-width: 1px; border-color: #EEEEEE; border-style: solid;">
 
