@@ -20,29 +20,29 @@ My research focuses on data-driven modeling and control of stochastic dynamical 
 
 # Working Papers {#research}
 
-1. **Dynamic Transfer Policies for Parallel Queues**\
-   with Timothy Chan and Vahid Sarhangian\
-   In preparation for submission, 2023.
+2\. **Dynamic Transfer Policies for Parallel Queues**\
+ with Timothy Chan and Vahid Sarhangian\
+ In preparation for submission, 2023.
 
-1. **Optimizing inter-hospital patient transfer decisions during a pandemic: a queueing network approach** [[Preprint]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3975839)\
-   with Timothy Chan, Frances Pogacar, and Vahid Sarhangian\
-   In preparation for resubmission to <span style="color:brown">_Manufacturing & Service Operations Management_</span>, 2023
-
-1. **Evolution of the surgical procedure gap during and after the COVID-19 pandemic in Ontario, Canada: a cross-sectional and modeling study**\
-   with Timothy Chan, Vahid Sarhangian, and Rachel Stephenson\
-   Under review, 2023
+1\. **Optimizing inter-hospital patient transfer decisions during a pandemic: a queueing network approach** [[Preprint]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3975839)\
+with Timothy Chan, Frances Pogacar, and Vahid Sarhangian\
+ In preparation for resubmission to <span style="color:brown">_Manufacturing & Service Operations Management_</span>, 2023
 
 # Published Papers
 
-1. **Trends in short-term renewable and load forecasting for applications in smart grid** [[DOI]](https://link.springer.com/chapter/10.1007/978-3-319-33681-7_24)\
-   with Deepa Kundur and Dongchan Lee\
-   <span style="color:brown">_Smart City 360_</span>, 2016
+2\. **Evolution of the surgical procedure gap during and after the COVID-19 pandemic in Ontario, Canada: a cross-sectional and modeling study**\
+ with Timothy Chan, Vahid Sarhangian, and Rachel Stephenson\
+ <span style="color:brown">_British Journal of Surgery_</span>, 2023
+
+1\. **Trends in short-term renewable and load forecasting for applications in smart grid** [[DOI]](https://link.springer.com/chapter/10.1007/978-3-319-33681-7_24)\
+with Deepa Kundur and Dongchan Lee\
+ <span style="color:brown">_Smart City 360_</span>, 2016
 
 # Industry Project
 
-1. **A hybrid optimization approach for employee rostering: Use cases at Swissgrid and lessons learned** [[arXiv]](https://arxiv.org/abs/2111.10845) \
-    with Evangelos Vrettos \
-   <span style="color:brown">_Swissgrid Ltd._</span>, Aarau, Switzerland, 2021
+1\. **A hybrid optimization approach for employee rostering: Use cases at Swissgrid and lessons learned** [[arXiv]](https://arxiv.org/abs/2111.10845) \
+ with Evangelos Vrettos \
+ <span style="color:brown">_Swissgrid Ltd._</span>, Aarau, Switzerland, 2021
 
 <hr style="border-width: 1px; border-color: #EEEEEE; border-style: solid;">
 
