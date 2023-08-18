@@ -58,11 +58,14 @@ with Deepa Kundur and Dongchan Lee\
 - <span style="color:#088F8F">**MIE 368: Analytics in Action**</span> (2022), Teaching Assistant \
    Senior undergraduate class in end-to-end analytics, University of Toronto.
 
+- <span style="color:#088F8F">**MGOD 31: Advanced Business Data Analytics**</span> (2022), Teaching Assistant \
+   Senior undergraduate class in applied machine learning, University of Toronto Scarborough.
+
 - <span style="color:#088F8F">**MIE 1613: Stochastic Simulation**</span> (2023), Teaching Assistant \
    Graduate class in stochastic modeling and simulation, University of Toronto.
 
-- <span style="color:#088F8F">**MGOD 31: Advanced Business Data Analytics**</span> (2022), Teaching Assistant \
-   Senior undergraduate class in applied machine learning, University of Toronto Scarborough.
+- <span style="color:#088F8F">**Volunteer Instructor for Statistics Without Borders**</span> (2023) \
+   Topic: Machine Learning ([link to online video lesson](https://youtu.be/ks2dPgtqq5M))
 
 <hr style="border-width: 1px; border-color: #EEEEEE; border-style: solid;">
 
