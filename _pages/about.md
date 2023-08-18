@@ -65,7 +65,7 @@ with Deepa Kundur and Dongchan Lee\
    Graduate class in stochastic modeling and simulation, University of Toronto.
 
 - <span style="color:#088F8F">**Volunteer Instructor for Statistics Without Borders**</span> (2023) \
-   Topic: Machine Learning ([link to online video lesson](https://youtu.be/ks2dPgtqq5M))
+   Topic: Machine learning ([link to online video lesson](https://youtu.be/ks2dPgtqq5M))
 
 <hr style="border-width: 1px; border-color: #EEEEEE; border-style: solid;">
 
