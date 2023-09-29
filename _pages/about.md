@@ -30,8 +30,7 @@ with Timothy Chan, Frances Pogacar, and Vahid Sarhangian\
 
 # Published Papers
 
-2\. **Evolution of the surgical procedure gap during and after the COVID-19 pandemic in Ontario, Canada:**\
- **a cross-sectional and modeling study** [[DOI]](https://doi.org/10.1093/bjs/znad289)\
+2\. **Evolution of the surgical procedure gap during and after the COVID-19 pandemic in Ontario, Canada: a cross-sectional and modeling study** [[DOI]](https://doi.org/10.1093/bjs/znad289)\
 with Timothy Chan, Vahid Sarhangian, and Rachel Stephenson\
  <span style="color:brown">_British Journal of Surgery_</span>, 2023
 
