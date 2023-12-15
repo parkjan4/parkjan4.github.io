@@ -22,11 +22,13 @@ My research focuses on data-driven modeling and control of stochastic dynamical 
 
 4\. **Dynamic Transfer Policies for Parallel Queues**\
 with Timothy Chan and Vahid Sarhangian\
-In preparation for submission, 2023.
+In preparation for submission
 
 3\. **Optimizing inter-hospital patient transfer decisions during a pandemic: a queueing network approach** [[Preprint]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3975839)\
 with Timothy Chan, Frances Pogacar, and Vahid Sarhangian\
- In preparation for resubmission to <span style="color:brown">_Manufacturing & Service Operations Management_</span>, 2023
+Under review
+
+ <!-- In preparation for resubmission to  <span style="color:brown">_Manufacturing & Service Operations Management_</span>, 2023 -->
 
 # Published Papers
 
