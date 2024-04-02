@@ -20,9 +20,13 @@ My research focuses on data-driven modeling and control of stochastic dynamical 
 
 # Working Papers {#research}
 
-4\. **Dynamic Transfer Policies for Parallel Queues**\
+5\. **Constructing Robust Confidence Bands for Time Series Simulation Outputs**\
 with Timothy Chan and Vahid Sarhangian\
-In preparation for submission
+Drafting stage
+
+4\. **Dynamic Transfer Policies for Parallel Queues** [[Preprint]](https://arxiv.org/abs/2404.00543)\
+with Timothy Chan and Vahid Sarhangian\
+Under review
 
 3\. **Optimizing inter-hospital patient transfer decisions during a pandemic: a queueing network approach** [[Preprint]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3975839)\
 with Timothy Chan, Frances Pogacar, and Vahid Sarhangian\
@@ -50,29 +54,30 @@ with Deepa Kundur and Dongchan Lee\
 
 # Presentations {#conferences}
 
-- <span style="color:#CD7F32">**INFORMS Annual Meeting:**</span> 2022, 2023 (scheduled)
+- <span style="color:#CD7F32">**INFORMS Annual Meeting:**</span> 2022, 2023
 - <span style="color:#CD7F32">**INFORMS Healthcare Conference:**</span> 2023
 
 <hr style="border-width: 1px; border-color: #EEEEEE; border-style: solid;">
 
 # Teaching {#teaching}
 
-- <span style="color:#088F8F">**MIE 368: Analytics in Action**</span> (2022), Teaching Assistant \
+- <span style="color:#088F8F">**MIE 368: Analytics in Action**</span> (2022, 2023), Teaching Assistant \
    Senior undergraduate class in end-to-end analytics, University of Toronto.
 
-- <span style="color:#088F8F">**MGOD 31: Advanced Business Data Analytics**</span> (2022), Teaching Assistant \
-   Senior undergraduate class in applied machine learning, University of Toronto Scarborough.
-
-- <span style="color:#088F8F">**MIE 1613: Stochastic Simulation**</span> (2023), Teaching Assistant \
+- <span style="color:#088F8F">**MIE 1613: Stochastic Simulation**</span> (2023, 2024), Teaching Assistant \
    Graduate class in stochastic modeling and simulation, University of Toronto.
 
 - <span style="color:#088F8F">**Volunteer Instructor for Statistics Without Borders**</span> (2023) \
    Topic: Machine learning ([link to online video lesson](https://youtu.be/ks2dPgtqq5M))
 
+- <span style="color:#088F8F">**MGOD 31: Advanced Business Data Analytics**</span> (2022), Teaching Assistant \
+   Senior undergraduate class in applied machine learning, University of Toronto Scarborough.
+
 <hr style="border-width: 1px; border-color: #EEEEEE; border-style: solid;">
 
 # Awards {#awards}
 
+- **[Mart Liinve Graduate Scholarship](https://www.mie.utoronto.ca/programs/graduate/scholarships-funding/) ($3,800)** 2024
 - **[NSERC CGS D](https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgsd-bescd_eng.asp) ($105,000)** 2023-25
 - **[Ontario Graduate Scholarship](https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html) ($15,000)** 2022-23
 - **[6T6 Industrial Engineering 50th Anniversary Award](https://che.utoronto.ca/education/healthcare-engineering-scholarships/) ($3,000)** 2021, 2022
