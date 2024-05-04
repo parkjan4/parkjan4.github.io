@@ -20,7 +20,7 @@ My research focuses on data-driven modeling and control of stochastic dynamical 
 
 # Working Papers {#research}
 
-5\. **Constructing Robust Confidence Bands for Time Series Simulation Outputs**\
+5\. **Robust Confidence Bands for Simulation Outputs**\
 with Timothy Chan and Vahid Sarhangian\
 Drafting stage
 
