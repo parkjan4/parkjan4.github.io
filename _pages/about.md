@@ -20,11 +20,11 @@ My research focuses on data-driven modeling and control of stochastic dynamical 
 
 # Working Papers {#research}
 
-5\. **Robust Confidence Bands for Stochastic Processes Using Simulation** [[Preprint]](/RCBmanuscript_Jangwon_Park.pdf)\
+5\. **Robust confidence bands for stochastic processes using simulation** [[Preprint]](/RCBmanuscript_Jangwon_Park.pdf)\
 with Timothy Chan and Vahid Sarhangian\
 Under review
 
-4\. **Dynamic Transfer Policies for Parallel Queues** [[Preprint]](https://arxiv.org/abs/2404.00543)\
+4\. **Dynamic transfer policies for parallel queues** [[Preprint]](https://arxiv.org/abs/2404.00543)\
 with Timothy Chan and Vahid Sarhangian\
 Major revision, <span style="color:brown">_Operations Research_</span>, 2024 \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:green">_Second place_</span>, 2024 CORS Queueing and Applied Probability SIG Student Paper Competition
