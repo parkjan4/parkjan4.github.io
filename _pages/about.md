@@ -22,7 +22,8 @@ My research focuses on data-driven modeling and control of stochastic dynamical 
 
 5\. **Robust confidence bands for stochastic processes using simulation** [[Preprint]](https://arxiv.org/abs/2408.13183)\
 with Timothy Chan and Vahid Sarhangian\
-Under review
+Under review \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:green">_Accepted for presentation_</span>, 2024 Winter Simulation Conference PhD Colloquium
 
 4\. **Dynamic transfer policies for parallel queues** [[Preprint]](https://arxiv.org/abs/2404.00543)\
 with Timothy Chan and Vahid Sarhangian\
@@ -54,8 +55,9 @@ with Deepa Kundur and Dongchan Lee\
 
 # Presentations {#conferences}
 
+- <span style="color:#CD7F32">**Winter Simulation Conference**</span> 2024 (scheduled)
+- <span style="color:#CD7F32">**INFORMS Annual Meeting:**</span> 2022, 2023, 2024 (scheduled)
 - <span style="color:#CD7F32">**CORS Annual Conference:**</span> 2024
-- <span style="color:#CD7F32">**INFORMS Annual Meeting:**</span> 2022, 2023
 - <span style="color:#CD7F32">**INFORMS Healthcare Conference:**</span> 2023
 
 <hr style="border-width: 1px; border-color: #EEEEEE; border-style: solid;">
