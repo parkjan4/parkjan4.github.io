@@ -55,7 +55,7 @@ with Deepa Kundur and Dongchan Lee\
 
 # Presentations {#conferences}
 
-- <span style="color:#CD7F32">**Winter Simulation Conference**</span> 2024 (scheduled)
+- <span style="color:#CD7F32">**Winter Simulation Conference:**</span> 2024 (scheduled)
 - <span style="color:#CD7F32">**INFORMS Annual Meeting:**</span> 2022, 2023, 2024 (scheduled)
 - <span style="color:#CD7F32">**CORS Annual Conference:**</span> 2024
 - <span style="color:#CD7F32">**INFORMS Healthcare Conference:**</span> 2023
