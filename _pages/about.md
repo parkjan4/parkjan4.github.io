@@ -23,6 +23,7 @@ My research focuses on data-driven modeling and control of stochastic dynamical 
 5\. **Robust confidence bands for stochastic processes using simulation** [[Preprint]](https://arxiv.org/abs/2408.13183)\
 with Timothy Chan and Vahid Sarhangian\
 Under review \
+Minor revision, <span style="color:brown">_Operations Research Letters_</span>, 2024 \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:green">_Accepted for presentation_</span>, 2024 Winter Simulation Conference PhD Colloquium
 
 4\. **Dynamic transfer policies for parallel queues** [[Preprint]](https://arxiv.org/abs/2404.00543)\
@@ -55,8 +56,8 @@ with Deepa Kundur and Dongchan Lee\
 
 # Presentations {#conferences}
 
-- <span style="color:#CD7F32">**Winter Simulation Conference:**</span> 2024 (scheduled)
-- <span style="color:#CD7F32">**INFORMS Annual Meeting:**</span> 2022, 2023, 2024 (scheduled)
+- <span style="color:#CD7F32">**Winter Simulation Conference:**</span> 2024
+- <span style="color:#CD7F32">**INFORMS Annual Meeting:**</span> 2022, 2023, 2024
 - <span style="color:#CD7F32">**CORS Annual Conference:**</span> 2024
 - <span style="color:#CD7F32">**INFORMS Healthcare Conference:**</span> 2023
 
@@ -67,12 +68,12 @@ with Deepa Kundur and Dongchan Lee\
 ### As an instructor:
 
 - <span style="color:#088F8F">**MIE 368: Analytics in Action**</span> (2024) \
-   Senior undergraduate class in applied analytics, University of Toronto.
+   Third-year undergraduate class in applied analytics, University of Toronto.
 
 ### As a teaching assistant:
 
 - <span style="color:#088F8F">**MIE 368: Analytics in Action**</span> (2022, 2023) \
-   Senior undergraduate class in applied analytics, University of Toronto.
+   Third-year undergraduate class in applied analytics, University of Toronto.
 
 - <span style="color:#088F8F">**MIE 1613: Stochastic Simulation**</span> (2023, 2024) \
    Graduate class in stochastic modeling and simulation, University of Toronto.
@@ -81,7 +82,7 @@ with Deepa Kundur and Dongchan Lee\
    Topic: Machine learning ([link to online video lesson](https://youtu.be/ks2dPgtqq5M))
 
 - <span style="color:#088F8F">**MGOD 31: Advanced Business Data Analytics**</span> (2022) \
-   Senior undergraduate class in applied machine learning, University of Toronto Scarborough.
+   Third-year undergraduate class in applied machine learning, University of Toronto Scarborough.
 
 <hr style="border-width: 1px; border-color: #EEEEEE; border-style: solid;">
 
