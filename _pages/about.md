@@ -88,7 +88,7 @@ with Deepa Kundur and Dongchan Lee\
 # Awards {#awards}
 
 - **[Mart Liinve Graduate Scholarship](https://www.mie.utoronto.ca/programs/graduate/scholarships-funding/) ($3,800)** 2024
-- **[NSERC CGS D](https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgsd-bescd_eng.asp) ($105,000)** 2023-25
+- **[NSERC CGS D](https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgsd-bescd_eng.asp) ($115,000)** 2023-26
 - **[Ontario Graduate Scholarship](https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html) ($15,000)** 2022-23
 - **[6T6 Industrial Engineering 50th Anniversary Award](https://che.utoronto.ca/education/healthcare-engineering-scholarships/) ($3,000)** 2021, 2022
 - **[Queen Elizabeth II Graduate Scholarship](https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019236.html) ($15,000)** 2021-22
