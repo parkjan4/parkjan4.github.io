@@ -22,7 +22,6 @@ My research focuses on data-driven modeling and control of stochastic dynamical 
 
 5\. **Robust confidence bands for stochastic processes using simulation** [[Preprint]](https://arxiv.org/abs/2408.13183)\
 with Timothy Chan and Vahid Sarhangian\
-Under review \
 Minor revision, <span style="color:brown">_Operations Research Letters_</span>, 2024 \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:green">_Accepted for presentation_</span>, 2024 Winter Simulation Conference PhD Colloquium
 
