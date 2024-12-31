@@ -106,8 +106,8 @@ with Deepa Kundur and Dongchan Lee\
 
 <span style="color:purple">**Conference session chair**:</span>
 
-- INFORMS 2024
-- INFORMS Healthcare 2023
+- INFORMS Annual Meeting 2024
+- INFORMS Healthcare Conference 2023
 
 <!-- <hr style="border-width: 1px; border-color: #EEEEEE; border-style: solid;">
 
