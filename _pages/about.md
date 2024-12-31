@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Jang. I am a 4th-year Ph.D. student in Operations Research at the University of Toronto. My advisors are [Timothy Chan](https://chan.mie.utoronto.ca/) and [Vahid Sarhangian](https://sarhangian.mie.utoronto.ca/). Before joining U of T, I completed MSc. in [Business Analytics at EPFL](https://www.epfl.ch/education/master/programs/management-technology-and-entrepreneurship/) (2020) and BASc. in [Engineering Science at U of T](https://discover.engineering.utoronto.ca/programs/engineering-programs/engineering-science/) (2018).
+Hi! My name is Jang. I am a fourth-year Ph.D. student in Operations Research at the University of Toronto. My advisors are [Timothy Chan](https://chan.mie.utoronto.ca/) and [Vahid Sarhangian](https://sarhangian.mie.utoronto.ca/). Before joining U of T, I completed MSc. in [Business Analytics at EPFL](https://www.epfl.ch/education/master/programs/management-technology-and-entrepreneurship/) (2020) and BASc. in [Engineering Science at U of T](https://discover.engineering.utoronto.ca/programs/engineering-programs/engineering-science/) (2018).
 
 My research focuses on data-driven modeling and control of stochastic dynamical systems with applications to healthcare operations management.
 
@@ -95,6 +95,19 @@ with Deepa Kundur and Dongchan Lee\
 - **[Queen Elizabeth II Graduate Scholarship](https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019236.html) ($15,000)** 2021-22
 - **[NSERC USRA](https://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp) ($4,500)** 2015
 - **[University of Toronto Scholars](https://future.utoronto.ca/finances/awards/university-of-toronto-scholars-program/) ($5,000)** 2013
+
+<hr style="border-width: 1px; border-color: #EEEEEE; border-style: solid;">
+
+# Service {#service}
+
+**Ad-hoc journal referee**:
+
+- Health Care Management Science
+
+**Conference session chair**:
+
+- INFORMS 2024
+- INFORMS Healthcare 2023
 
 <!-- <hr style="border-width: 1px; border-color: #EEEEEE; border-style: solid;">
 
