@@ -100,11 +100,11 @@ with Deepa Kundur and Dongchan Lee\
 
 # Service {#service}
 
-**Ad-hoc journal referee**:
+<span style="color:purple">**Ad-hoc journal referee**:</span>
 
 - Health Care Management Science
 
-**Conference session chair**:
+<span style="color:purple">**Conference session chair**:</span>
 
 - INFORMS 2024
 - INFORMS Healthcare 2023
