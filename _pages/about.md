@@ -22,34 +22,34 @@ My research focuses on data-driven modeling and control of stochastic dynamical 
 
 5\. **Robust confidence bands for stochastic processes using simulation** [[Preprint]](https://arxiv.org/abs/2408.13183)\
 with Timothy Chan and Vahid Sarhangian\
-Minor revision, <span style="color:brown">_Operations Research Letters_</span>, 2024 \
+Minor revision, <span style="color:brown">**_Operations Research Letters_**</span>, 2024 \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:green">_Accepted for presentation_</span>, 2024 Winter Simulation Conference PhD Colloquium
 
 4\. **Dynamic transfer policies for parallel queues** [[Preprint]](https://arxiv.org/abs/2404.00543)\
 with Timothy Chan and Vahid Sarhangian\
-Major revision, <span style="color:brown">_Operations Research_</span>, 2024 \
+Major revision, <span style="color:brown">**_Operations Research_**</span>, 2024 \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:green">_Second place_</span>, 2024 CORS Queueing and Applied Probability SIG Student Paper Competition
 
 3\. **Optimizing inter-hospital patient transfer decisions during a pandemic: a queueing network approach** [[Preprint]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3975839)\
 with Timothy Chan, Frances Pogacar, and Vahid Sarhangian\
-Major revision, <span style="color:brown">_Manufacturing & Service Operations Management_</span>, 2024\
+Major revision, <span style="color:brown">**_Manufacturing & Service Operations Management_**</span>, 2024\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:green">_First place_</span>, 2024 CORS Healthcare SIG Student Paper Competition
 
 # Published Papers
 
 2\. **Evolution of the surgical procedure gap during and after the COVID-19 pandemic in Ontario, Canada: a cross-sectional and modeling study** [[DOI]](https://doi.org/10.1093/bjs/znad289)\
 with Timothy Chan, Vahid Sarhangian, and Rachel Stephenson\
- <span style="color:brown">_British Journal of Surgery_</span>, 2023
+ <span style="color:brown">**_British Journal of Surgery_**</span>, 2023
 
 1\. **Trends in short-term renewable and load forecasting for applications in smart grid** [[DOI]](https://link.springer.com/chapter/10.1007/978-3-319-33681-7_24)\
 with Deepa Kundur and Dongchan Lee\
- <span style="color:brown">_Smart City 360_</span>, 2016
+ <span style="color:brown">**_Smart City 360_**</span>, 2016
 
 # Industry Project
 
 1\. **A hybrid optimization approach for employee rostering: Use cases at Swissgrid and lessons learned** [[arXiv]](https://arxiv.org/abs/2111.10845) \
  with Evangelos Vrettos \
- <span style="color:brown">_Swissgrid Ltd._</span>, Aarau, Switzerland, 2021
+ <span style="color:brown">**_Swissgrid Ltd._**</span>, Aarau, Switzerland, 2021
 
 <hr style="border-width: 1px; border-color: #EEEEEE; border-style: solid;">
 
