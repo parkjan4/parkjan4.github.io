@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Jang. I am a fourth-year Ph.D. student in Operations Research at the University of Toronto. My advisors are [Timothy Chan](https://chan.mie.utoronto.ca/) and [Vahid Sarhangian](https://sarhangian.mie.utoronto.ca/). Before joining U of T, I completed MSc. in [Business Analytics at EPFL](https://www.epfl.ch/education/master/programs/management-technology-and-entrepreneurship/) (2020) and BASc. in [Engineering Science at U of T](https://discover.engineering.utoronto.ca/programs/engineering-programs/engineering-science/) (2018).
+Hi! My name is Jang. I am a fourth-year Ph.D. student in Operations Research at the University of Toronto. My advisors are [Timothy Chan](https://chan.mie.utoronto.ca/) and [Vahid Sarhangian](https://sarhangian.mie.utoronto.ca/).
 
-My research focuses on data-driven modeling and control of stochastic dynamical systems with applications to healthcare operations management.
+My research focuses on data-driven modeling and control of stochastic dynamical systems, as well as application of empirical methods, with a particular emphasis on healthcare operations management.
+
+Before joining U of T, I completed MSc. in [Business Analytics at EPFL](https://www.epfl.ch/education/master/programs/management-technology-and-entrepreneurship/) (2020), and was a research scientist on Swissgrid's Research and Digitalization Team during the summer and fall of 2020.
+
+<!-- BASc. in [Engineering Science at U of T](https://discover.engineering.utoronto.ca/programs/engineering-programs/engineering-science/) (2018). -->
 
 **Contact:** jangwon.park [at] mail.utoronto.ca
 
@@ -19,6 +23,10 @@ My research focuses on data-driven modeling and control of stochastic dynamical 
 <!-- # Research {#research} -->
 
 # Working Papers {#research}
+
+6\. **Impact of inter-hospital patient transfers**\
+with Carri Chan, Timothy Chan, and Vahid Sarhangian\
+Work in progress, 2025
 
 5\. **Robust confidence bands for stochastic processes using simulation** [[Preprint]](https://arxiv.org/abs/2408.13183)\
 with Timothy Chan and Vahid Sarhangian\
@@ -33,7 +41,8 @@ Major revision, <span style="color:brown">**_Operations Research_**</span>, 2024
 3\. **Optimizing inter-hospital patient transfer decisions during a pandemic: a queueing network approach** [[Preprint]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3975839)\
 with Timothy Chan, Frances Pogacar, and Vahid Sarhangian\
 Major revision, <span style="color:brown">**_Manufacturing & Service Operations Management_**</span>, 2024\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:green">_First place_</span>, 2024 CORS Healthcare SIG Student Paper Competition
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:green">_First place_</span>, 2024 CORS Healthcare SIG Student Paper Competition\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:green">_Accepted for presentation_</span>, 2025 MSOM Healthcare SIG
 
 # Published Papers
 
@@ -55,9 +64,11 @@ with Deepa Kundur and Dongchan Lee\
 
 # Presentations {#conferences}
 
+- <span style="color:#CD7F32">**Applied Probability Society:**</span> 2025 (scheduled)
+- <span style="color:#CD7F32">**MSOM:**</span> 2025 (scheduled)
 - <span style="color:#CD7F32">**Winter Simulation Conference:**</span> 2024
 - <span style="color:#CD7F32">**INFORMS Annual Meeting:**</span> 2022, 2023, 2024
-- <span style="color:#CD7F32">**CORS Annual Conference:**</span> 2024
+- <span style="color:#CD7F32">**CORS Annual Conference:**</span> 2024, 2025
 - <span style="color:#CD7F32">**INFORMS Healthcare Conference:**</span> 2023
 
 <hr style="border-width: 1px; border-color: #EEEEEE; border-style: solid;">
@@ -105,6 +116,7 @@ with Deepa Kundur and Dongchan Lee\
 
 <span style="color:purple">**Conference session chair**:</span>
 
+- CORS Annual Conference 2025
 - INFORMS Annual Meeting 2024
 - INFORMS Healthcare Conference 2023
 
