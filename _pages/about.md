@@ -12,7 +12,7 @@ Hi! My name is Jang. I am a fourth-year Ph.D. student in Operations Research at 
 
 My research focuses on data-driven modeling and control of stochastic dynamical systems, as well as application of empirical methods, with a particular emphasis on healthcare operations management.
 
-Before joining U of T, I completed MSc. in [Business Analytics at EPFL](https://www.epfl.ch/education/master/programs/management-technology-and-entrepreneurship/) (2020), and was a research scientist on Swissgrid's Research and Digitalization Team during the summer and fall of 2020.
+Before joining U of T, I completed MSc. in [Business Analytics at EPFL](https://www.epfl.ch/education/master/programs/management-technology-and-entrepreneurship/) (2020), and was a research scientist on [Swissgrid's Research and Digitalization](https://www.swissgrid.ch/en/home/career/job-profiles/research-digitalisation.html) team during the summer and fall of 2020.
 
 <!-- BASc. in [Engineering Science at U of T](https://discover.engineering.utoronto.ca/programs/engineering-programs/engineering-science/) (2018). -->
 
