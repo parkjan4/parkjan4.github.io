@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! My name is Jang. I am a fourth-year Ph.D. student in Operations Research at the University of Toronto. My advisors are [Timothy Chan](https://chan.mie.utoronto.ca/) and [Vahid Sarhangian](https://sarhangian.mie.utoronto.ca/).
 
-My research focuses on data-driven modeling and control of stochastic dynamical systems, as well as application of empirical methods, with a particular emphasis on healthcare operations management.
+My research focuses on data-driven modeling and control of stochastic dynamical systems, as well as applications of empirical methods, with a particular emphasis on healthcare operations.
 
 Before joining U of T, I completed MSc. in [Business Analytics at EPFL](https://www.epfl.ch/education/master/programs/management-technology-and-entrepreneurship/) in 2020, and was a research scientist on [Swissgrid's Research and Digitalization](https://www.swissgrid.ch/en/home/career/job-profiles/research-digitalisation.html) team during the summer and fall of 2020. I completed BASc. in [Engineering Science at U of T](https://discover.engineering.utoronto.ca/programs/engineering-programs/engineering-science/) in 2018.
 
