@@ -10,11 +10,11 @@ redirect_from:
 
 Hi! My name is Jang. I am a fourth-year Ph.D. student in Operations Research at the University of Toronto. My advisors are [Timothy Chan](https://chan.mie.utoronto.ca/) and [Vahid Sarhangian](https://sarhangian.mie.utoronto.ca/).
 
-In my research, I am particularly motivated by the growing risk of large-scale illness events that create spatially uneven demand for hospital care and medical resources, both within and across hospitals, which are especially pronounced during pandemics, natural disasters, and extreme weather events. My research leverages stochastic modeling and control, optimization, and applications of econometrics and data analytics. More generally, I am very interested in improving the sustainability of healthcare systems through intelligent pooling and allocation of resources.
+In my research, I am particularly motivated by the growing risk of large-scale illness events that create spatially uneven demand for hospital care and medical resources. This can occur both within and across hospitals, and are especially pronounced during pandemics, natural disasters, and extreme weather events. My goal is to study how to improve the sustainability of healthcare systems through intelligent pooling and allocation of resources. Currently, my research focuses on optimizing patient transfer decisions between hospitals, and leverages stochastic modeling and control, optimization, and applications of econometrics and data analytics.
 
 <!-- My research focuses on data-driven modeling and control of stochastic dynamical systems, as well as applications of empirical methods, with a particular emphasis on healthcare operations. -->
 
-Before joining U of T, I completed MSc. in [Business Analytics at EPFL](https://www.epfl.ch/education/master/programs/management-technology-and-entrepreneurship/) in 2020, and was a research scientist on [Swissgrid's Research and Digitalization](https://www.swissgrid.ch/en/home/career/job-profiles/research-digitalisation.html) team during the summer and fall of 2020. I completed BASc. in [Engineering Science at U of T](https://discover.engineering.utoronto.ca/programs/engineering-programs/engineering-science/) in 2018.
+Before joining U of T, I completed MSc. in [Business Analytics at EPFL](https://www.epfl.ch/education/master/programs/management-technology-and-entrepreneurship/) in 2020, and was a research scientist on [Swissgrid's Research and Digitalization](https://www.swissgrid.ch/en/home/career/job-profiles/research-digitalisation.html) team from March-Oct 2020. I completed BASc. in [Engineering Science at U of T](https://discover.engineering.utoronto.ca/programs/engineering-programs/engineering-science/) in 2018.
 
 **Contact:** jangwon.park [at] mail.utoronto.ca
 
