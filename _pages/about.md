@@ -24,7 +24,7 @@ Before joining U of T, I completed MSc. in [Business Analytics at EPFL](https://
 
 # Working Papers {#research}
 
-6\. **Impact of inter-hospital patient transfers**\
+6\. **Causal impact of inter-hospital patient transfers**\
 with Carri Chan, Timothy Chan, and Vahid Sarhangian\
 Work in progress, 2025
 
