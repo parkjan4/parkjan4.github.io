@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Jang. I am a fourth-year Ph.D. student in Operations Research at the University of Toronto. My advisors are [Timothy Chan](https://chan.mie.utoronto.ca/) and [Vahid Sarhangian](https://sarhangian.mie.utoronto.ca/).
+Hi! My name is Jang. I am a 5th-year Ph.D. student in Operations Research at the University of Toronto. My advisors are [Timothy Chan](https://chan.mie.utoronto.ca/) and [Vahid Sarhangian](https://sarhangian.mie.utoronto.ca/).
 
 In my research, I am particularly motivated by the growing risk of large-scale illness events that create spatially uneven demand for hospital care and medical resources. This can occur both within and across hospitals, and is especially pronounced during pandemics, natural disasters, and extreme weather events. I am very interested in studying how to improve the sustainability of healthcare systems through intelligent pooling and allocation of resources. Currently, my research focuses on optimizing patient transfer decisions between hospitals, and leverages stochastic modeling and control, optimization, and applications of econometrics and data analytics.
 
