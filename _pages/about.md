@@ -54,7 +54,11 @@ with Timothy Chan, Vahid Sarhangian, and Rachel Stephenson\
 with Deepa Kundur and Dongchan Lee\
  <span style="color:brown">**_Smart City 360_**</span>, 2016
 
-# Industry Project
+# Industry Projects
+
+2\. **Automating Order Management Process at Daily Bread Food Bank** \
+ with Helen Lee, Rachel Wong \
+ <span style="color:brown">**_Daily Bread Food Bank_**</span>, Toronto, Canada, 2025
 
 1\. **A hybrid optimization approach for employee rostering: Use cases at Swissgrid and lessons learned** [[arXiv]](https://arxiv.org/abs/2111.10845) \
  with Evangelos Vrettos \
@@ -64,8 +68,8 @@ with Deepa Kundur and Dongchan Lee\
 
 # Presentations {#conferences}
 
-- <span style="color:#CD7F32">**Applied Probability Society:**</span> 2025 (scheduled)
-- <span style="color:#CD7F32">**MSOM:**</span> 2025 (scheduled)
+- <span style="color:#CD7F32">**Applied Probability Society:**</span> 2025
+- <span style="color:#CD7F32">**MSOM:**</span> 2025
 - <span style="color:#CD7F32">**Winter Simulation Conference:**</span> 2024
 - <span style="color:#CD7F32">**INFORMS Annual Meeting:**</span> 2022, 2023, 2024
 - <span style="color:#CD7F32">**CORS Annual Conference:**</span> 2024, 2025
@@ -77,19 +81,19 @@ with Deepa Kundur and Dongchan Lee\
 
 ### As an instructor:
 
-- <span style="color:#088F8F">**MIE 368: Analytics in Action**</span> (2024) \
+- <span style="color:#088F8F">**MIE 368: Analytics in Action**</span> (2024), Instructor Rating: **4.5/5** \
    Third-year undergraduate class in applied analytics, University of Toronto.
 
 ### As a teaching assistant:
 
-- <span style="color:#088F8F">**MIE 368: Analytics in Action**</span> (2022, 2023) \
+- <span style="color:#088F8F">**MIE 368: Analytics in Action**</span> (2022, 2023), Average TA Rating: **4.8/5** \
    Third-year undergraduate class in applied analytics, University of Toronto.
 
 - <span style="color:#088F8F">**MIE 1613: Stochastic Simulation**</span> (2023, 2024) \
    Graduate class in stochastic modeling and simulation, University of Toronto.
 
 - <span style="color:#088F8F">**Volunteer Instructor for Statistics Without Borders**</span> (2023) \
-   Topic: Machine learning ([link to online video lesson](https://youtu.be/ks2dPgtqq5M))
+   Topic: Machine learning ([link to online video lessons](https://www.youtube.com/playlist?list=PLL4dxfwz_vwb7iOCl4grBmBxL5TGrh3ae))
 
 - <span style="color:#088F8F">**MGOD 31: Advanced Business Data Analytics**</span> (2022) \
    Third-year undergraduate class in applied machine learning, University of Toronto Scarborough.
