@@ -116,6 +116,7 @@ with Deepa Kundur and Dongchan Lee\
 
 <span style="color:purple">**Ad-hoc journal referee**:</span>
 
+- Operations Research
 - Health Care Management Science
 
 <span style="color:purple">**Conference session chair**:</span>
