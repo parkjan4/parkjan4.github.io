@@ -41,7 +41,7 @@ Submitted for Major revision (3<sup>rd</sup> round), <span style="color:brown">*
 
 # Published Papers
 
-3\. **Robust confidence bands for stochastic processes using simulation** [[DOI]](https://www-sciencedirect-com.myaccess.library.utoronto.ca/science/article/pii/S0167637725001452?via%3Dihub)\
+3\. **Robust confidence bands for stochastic processes using simulation** [[DOI]](https://www.sciencedirect.com/science/article/abs/pii/S0167637725001452)\
 with Timothy Chan and Vahid Sarhangian\
 <span style="color:brown">**_Operations Research Letters_**</span>, 2025 \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:green">_Accepted for presentation_</span>, 2024 Winter Simulation Conference PhD Colloquium
