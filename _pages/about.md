@@ -30,21 +30,21 @@ Work in progress, 2025
 
 5\. **Dynamic transfer policies for parallel queues** [[Preprint]](https://arxiv.org/abs/2404.00543)\
 with Timothy Chan and Vahid Sarhangian\
-Major revision, <span style="color:brown">**_Operations Research_**</span>, 2024 \
+Submitted for Major revision (2<sup>nd</sup> round), <span style="color:brown">**_Operations Research_**</span>, 2024 \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:green">_Second place_</span>, 2024 CORS Queueing and Applied Probability SIG Student Paper Competition
 
 4\. **Optimizing inter-hospital patient transfer decisions: a queueing network approach** [[Preprint]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3975839)\
 with Timothy Chan, Frances Pogacar, and Vahid Sarhangian\
-Major revision, <span style="color:brown">**_Manufacturing & Service Operations Management_**</span>, 2024\
+Submitted for Major revision (3<sup>rd</sup> round), <span style="color:brown">**_Manufacturing & Service Operations Management_**</span>, 2024\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:green">_First place_</span>, 2024 CORS Healthcare SIG Student Paper Competition\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:green">_Accepted for presentation_</span>, 2025 MSOM Healthcare SIG
 
-3\. **Robust confidence bands for stochastic processes using simulation** [[Preprint]](https://arxiv.org/abs/2408.13183)\
-with Timothy Chan and Vahid Sarhangian\
-Minor revision, <span style="color:brown">**_Operations Research Letters_**</span>, 2024 \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:green">_Accepted for presentation_</span>, 2024 Winter Simulation Conference PhD Colloquium
-
 # Published Papers
+
+3\. **Robust confidence bands for stochastic processes using simulation** [[DOI]](https://www-sciencedirect-com.myaccess.library.utoronto.ca/science/article/pii/S0167637725001452?via%3Dihub)\
+with Timothy Chan and Vahid Sarhangian\
+<span style="color:brown">**_Operations Research Letters_**</span>, 2025 \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:green">_Accepted for presentation_</span>, 2024 Winter Simulation Conference PhD Colloquium
 
 2\. **Evolution of the surgical procedure gap during and after the COVID-19 pandemic in Ontario, Canada: a cross-sectional and modeling study** [[DOI]](https://doi.org/10.1093/bjs/znad289)\
 with Timothy Chan, Vahid Sarhangian, and Rachel Stephenson\
