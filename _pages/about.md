@@ -30,12 +30,12 @@ Work in progress, targeted for <span style="color:brown">**_Management Science_*
 
 5\. **Dynamic transfer policies for parallel queues** [[Preprint]](https://arxiv.org/abs/2404.00543)\
 with Timothy Chan and Vahid Sarhangian\
-2<sup>nd</sup> round review, <span style="color:brown">**_Operations Research_**</span>, 2025 \
+Under review, <span style="color:brown">**_Operations Research_**</span>, 2025 \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:green">_Second place_</span>, 2024 CORS Queueing and Applied Probability SIG Student Paper Competition
 
 4\. **Optimizing inter-hospital patient transfer decisions: a queueing network approach** [[Preprint]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3975839)\
 with Timothy Chan, Frances Pogacar, and Vahid Sarhangian\
-3<sup>rd</sup> round review, <span style="color:brown">**_Manufacturing & Service Operations Management_**</span>, 2025\
+4<sup>th</sup> round review, <span style="color:brown">**_Manufacturing & Service Operations Management_**</span>, 2025\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:green">_First place_</span>, 2024 CORS Healthcare SIG Student Paper Competition\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:green">_Accepted for presentation_</span>, 2025 MSOM Healthcare SIG
 
