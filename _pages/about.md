@@ -33,13 +33,13 @@ with Timothy Chan and Vahid Sarhangian\
 Under review, <span style="color:brown">**_Management Science_**</span>, 2025 \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:green">_Second place_</span>, 2024 CORS Queueing and Applied Probability SIG Student Paper Competition
 
+# Published Papers
+
 4\. **Optimizing inter-hospital patient transfer decisions: a queueing network approach** [[Preprint]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3975839)\
 with Timothy Chan, Frances Pogacar, and Vahid Sarhangian\
-4<sup>th</sup> round review, <span style="color:brown">**_Manufacturing & Service Operations Management_**</span>, 2025\
+Accepted, <span style="color:brown">**_Manufacturing & Service Operations Management_**</span>, 2025\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:green">_First place_</span>, 2024 CORS Healthcare SIG Student Paper Competition\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:green">_Accepted for presentation_</span>, 2025 MSOM Healthcare SIG
-
-# Published Papers
 
 3\. **Robust confidence bands for stochastic processes using simulation** [[DOI]](https://www.sciencedirect.com/science/article/abs/pii/S0167637725001452)\
 with Timothy Chan and Vahid Sarhangian\
