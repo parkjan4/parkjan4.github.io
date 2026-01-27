@@ -24,6 +24,10 @@ Before joining U of T, I completed MSc. in [Business Analytics at EPFL](https://
 
 # Working Papers {#research}
 
+7\. **Impact of team-based care on surgical oncology wait times**\
+with Timothy Chan, Christopher Yao, and Arman Zaher\
+Work in progress, targeted for <span style="color:brown">**_Canadian Medical Association Journal (CMAJ)_**</span>, 2026
+
 6\. **Causal impact of inter-hospital patient transfers**\
 with Carri Chan, Timothy Chan, and Vahid Sarhangian\
 Work in progress, targeted for <span style="color:brown">**_Management Science_**</span>, 2026
