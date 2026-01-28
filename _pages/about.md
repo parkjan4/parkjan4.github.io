@@ -24,7 +24,7 @@ Before joining U of T, I completed MSc. in [Business Analytics at EPFL](https://
 
 # Working Papers {#research}
 
-7\. **Impact of team-based care on surgical oncology wait times**\
+7\. **Impact of team-based care on surgical oncology wait times: a simulation study**\
 with Timothy Chan, Christopher Yao, and Arman Zaher\
 Work in progress, targeted for <span style="color:brown">**_Canadian Medical Association Journal (CMAJ)_**</span>, 2026
 
@@ -34,14 +34,14 @@ Work in progress, targeted for <span style="color:brown">**_Management Science_*
 
 5\. **Dynamic transfer policies for parallel queues** [[Preprint]](https://arxiv.org/abs/2404.00543)\
 with Timothy Chan and Vahid Sarhangian\
-Under review, <span style="color:brown">**_Management Science_**</span>, 2025 \
+Under review, <span style="color:brown">**_Management Science_**</span>, 2026 \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:green">_Second place_</span>, 2024 CORS Queueing and Applied Probability SIG Student Paper Competition
 
 # Published Papers
 
 4\. **Optimizing inter-hospital patient transfer decisions: a queueing network approach** [[Preprint]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3975839)\
 with Timothy Chan, Frances Pogacar, and Vahid Sarhangian\
-Accepted, <span style="color:brown">**_Manufacturing & Service Operations Management_**</span>, 2025\
+<span style="color:brown">**_Manufacturing & Service Operations Management_**</span>, 2026\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:green">_First place_</span>, 2024 CORS Healthcare SIG Student Paper Competition\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:green">_Accepted for presentation_</span>, 2025 MSOM Healthcare SIG
 
