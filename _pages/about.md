@@ -8,15 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Jang. I am a 5th year PhD student in Operations Research at the University of Toronto. My advisors are [Timothy Chan](https://chan.mie.utoronto.ca/) and [Vahid Sarhangian](https://sarhangian.mie.utoronto.ca/).
+Hi! My name is Jang. I am an Assistant Professor of Industrial Engienering at the University of Pittsburgh.
 
-My research develops data-driven insights and policies to help health systems become more resilient under demand uncertainty and resource scarcity, drawing on stochastic modeling, causal inference, and algorithm design. I work extensively with large clinical datasets and collaborate closely with practitioners to inform modeling and analysis. Currently, I focus on optimizing inter-hospital patient transfer decisions from both empirical and theoretical perspectives.
+My research develops data-driven insights and policies to help health systems become more resilient under demand uncertainty and resource scarcity, drawing on stochastic modeling, causal inference, and algorithm design. I work extensively with large clinical datasets and collaborate closely with practitioners to inform modeling and analysis.
+
+<!-- Currently, I focus on optimizing inter-hospital patient transfer decisions from both empirical and theoretical perspectives. -->
 
 <!-- My research focuses on data-driven modeling and control of stochastic dynamical systems, as well as applications of empirical methods, with a particular emphasis on healthcare operations. -->
 
-Before joining U of T, I completed MSc. in [Business Analytics at EPFL](https://www.epfl.ch/education/master/programs/management-technology-and-entrepreneurship/) in 2020, and was a research scientist on [Swissgrid's Research and Digitalization](https://www.swissgrid.ch/en/home/career/job-profiles/research-digitalisation.html) team from March-Oct 2020. I completed BASc. in [Engineering Science at U of T](https://discover.engineering.utoronto.ca/programs/engineering-programs/engineering-science/) in 2018.
+I completed my Ph.D. at the University of Toronto (2026) in the Department of Mechanical and Industrial Engineering. Before joining U of T, I completed MSc. in [Business Analytics at EPFL](https://www.epfl.ch/education/master/programs/management-technology-and-entrepreneurship/) in 2020, and was a research scientist on [Swissgrid's Research and Digitalization](https://www.swissgrid.ch/en/home/career/job-profiles/research-digitalisation.html) team from March-Oct 2020. I completed BASc. in [Engineering Science at U of T](https://discover.engineering.utoronto.ca/programs/engineering-programs/engineering-science/) in 2018.
 
-**Contact:** jangwon.park [at] mail.utoronto.ca
+**Contact:** jangwon.park [at] pitt.edu
 
 <hr style="border-width: 1px; border-color: #EEEEEE; border-style: solid;">
 
@@ -34,7 +36,7 @@ Work in progress, targeted for <span style="color:brown">**_Management Science_*
 
 5\. **Dynamic transfer policies for parallel queues** [[Preprint]](https://arxiv.org/abs/2404.00543)\
 with Timothy Chan and Vahid Sarhangian\
-Under review, <span style="color:brown">**_Management Science_**</span>, 2026 \
+Major Revision, <span style="color:brown">**_Manufacturing & Service Operations Management_**</span>, 2026 \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:green">_Second place_</span>, 2024 CORS Queueing and Applied Probability SIG Student Paper Competition
 
 # Published Papers
