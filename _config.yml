@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jangwon Park"
   avatar           : "headshot.png"
-  bio              : "PhD student in operations research"
-  location         : "University of Toronto, Canada"
+  bio              : "Assistant Professor, Industrial Engineering"
+  location         : "University of Pittsburgh"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=2fKNVdMAAAAJ&hl=en"
-  email            : "jangwon.park@mail.utoronto.ca"
+  email            : "jangwon.park@pitt.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
