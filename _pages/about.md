@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Jang. I am an Assistant Professor of Industrial Engienering at the University of Pittsburgh.
+Hi! My name is Jang. I am an Assistant Professor of Industrial Engineering at the University of Pittsburgh.
 
 My research develops data-driven insights and policies to help health systems become more resilient under demand uncertainty and resource scarcity, drawing on stochastic modeling, causal inference, and algorithm design. I work extensively with large clinical datasets and collaborate closely with practitioners to inform modeling and analysis.
 
@@ -16,7 +16,7 @@ My research develops data-driven insights and policies to help health systems be
 
 <!-- My research focuses on data-driven modeling and control of stochastic dynamical systems, as well as applications of empirical methods, with a particular emphasis on healthcare operations. -->
 
-I completed my Ph.D. at the University of Toronto (2026) in the Department of Mechanical and Industrial Engineering. Before joining U of T, I completed MSc. in [Business Analytics at EPFL](https://www.epfl.ch/education/master/programs/management-technology-and-entrepreneurship/) in 2020, and was a research scientist on [Swissgrid's Research and Digitalization](https://www.swissgrid.ch/en/home/career/job-profiles/research-digitalisation.html) team from March-Oct 2020. I completed BASc. in [Engineering Science at U of T](https://discover.engineering.utoronto.ca/programs/engineering-programs/engineering-science/) in 2018.
+I completed my Ph.D. at the University of Toronto (2026) in the Department of Mechanical and Industrial Engineering. Before joining U of T, I completed an MSc. in [Business Analytics at EPFL](https://www.epfl.ch/education/master/programs/management-technology-and-entrepreneurship/) in 2020, and was a research scientist on [Swissgrid's Research and Digitalization](https://www.swissgrid.ch/en/home/career/job-profiles/research-digitalisation.html) team from March-Oct 2020. I completed a BASc. in [Engineering Science at U of T](https://discover.engineering.utoronto.ca/programs/engineering-programs/engineering-science/) in 2018.
 
 **Contact:** jangwon.park [at] pitt.edu
 
@@ -26,13 +26,21 @@ I completed my Ph.D. at the University of Toronto (2026) in the Department of Me
 
 # Working Papers {#research}
 
+9\. **Sequencing of microbiology tests for human milk banks: a partially observable Markov decision process approach**\
+with Timothy Chan and Rachel Wong\
+Work in progress
+
+8\. **Value of human milk pooling: a field experiment**\
+with Timothy Chan and Rachel Wong\
+Work in progress
+
 7\. **Impact of team-based care on surgical oncology wait times: a simulation study**\
 with Timothy Chan, Christopher Yao, and Arman Zaher\
-Work in progress, targeted for <span style="color:brown">**_Canadian Medical Association Journal (CMAJ)_**</span>, 2026
+Work in progress
 
-6\. **Causal impact of inter-hospital patient transfers**\
-with Carri Chan, Timothy Chan, and Vahid Sarhangian\
-Work in progress, targeted for <span style="color:brown">**_Management Science_**</span>, 2026
+6\. **Operational and clinical impact of inter-hospital patient transfers**\
+with Carri Chan, Vahid Sarhangian, et al.\
+Work in progress
 
 5\. **Dynamic transfer policies for parallel queues** [[Preprint]](https://arxiv.org/abs/2404.00543)\
 with Timothy Chan and Vahid Sarhangian\
@@ -49,7 +57,7 @@ with Timothy Chan, Frances Pogacar, and Vahid Sarhangian\
 
 3\. **Robust confidence bands for stochastic processes using simulation** [[DOI]](https://www.sciencedirect.com/science/article/abs/pii/S0167637725001452)\
 with Timothy Chan and Vahid Sarhangian\
-<span style="color:brown">**_Operations Research Letters_**</span>, 2025 \
+<span style="color:brown">**_Operations Research Letters_**</span>, 2026 \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:green">_Accepted for presentation_</span>, 2024 Winter Simulation Conference PhD Colloquium
 
 2\. **Evolution of the surgical procedure gap during and after the COVID-19 pandemic in Ontario, Canada: a cross-sectional and modeling study** [[DOI]](https://doi.org/10.1093/bjs/znad289)\
@@ -74,6 +82,7 @@ with Deepa Kundur and Dongchan Lee\
 
 # Presentations {#conferences}
 
+- <span style="color:#CD7F32">**Rotman Annual Research Roundtable:**</span> 2026
 - <span style="color:#CD7F32">**Applied Probability Society:**</span> 2025
 - <span style="color:#CD7F32">**MSOM:**</span> 2025
 - <span style="color:#CD7F32">**Winter Simulation Conference:**</span> 2024
@@ -87,6 +96,12 @@ with Deepa Kundur and Dongchan Lee\
 
 ### As an instructor:
 
+- <span style="color:#088F8F">**IE 2088: Stochastic Simulation**</span> (Spring 2027) \
+   University of Pittsburgh.
+
+- <span style="color:#088F8F">**IE 1082: Probabilistic Methods in Operations Research**</span> (Spring 2027) \
+   University of Pittsburgh.
+
 - <span style="color:#088F8F">**MIE 368: Analytics in Action**</span> (2024), Instructor Rating: **4.5/5** \
    Third-year undergraduate class in applied analytics, University of Toronto.
 
@@ -95,7 +110,7 @@ with Deepa Kundur and Dongchan Lee\
 - <span style="color:#088F8F">**MIE 368: Analytics in Action**</span> (2022, 2023), Average TA Rating: **4.8/5** \
    Third-year undergraduate class in applied analytics, University of Toronto.
 
-- <span style="color:#088F8F">**MIE 1613: Stochastic Simulation**</span> (2023, 2024) \
+- <span style="color:#088F8F">**MIE 1613: Stochastic Simulation**</span> (2023, 2024, 2025, 2026) \
    Graduate class in stochastic modeling and simulation, University of Toronto.
 
 - <span style="color:#088F8F">**Volunteer Instructor for Statistics Without Borders**</span> (2023) \
@@ -108,6 +123,7 @@ with Deepa Kundur and Dongchan Lee\
 
 # Awards {#awards}
 
+- **MIE Doctoral Completion Award ($4,000)** 2026
 - **[Mart Liinve Graduate Scholarship](https://www.mie.utoronto.ca/programs/graduate/scholarships-funding/) ($3,800)** 2024
 - **[NSERC CGS D](https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgsd-bescd_eng.asp) ($115,000)** 2023-26
 - **[Ontario Graduate Scholarship](https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html) ($15,000)** 2022-23
